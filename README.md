@@ -15,6 +15,6 @@ $ make
 ```
 #### 2. L'utiliser dans votre code
 Pour utiliser les fonctions de la bibliothèque dans votre code, incluez simplement son en-tête : 
-```
-#indlude "ft_printf.h"
+```C
+#include "ft_printf.h"
 ```
