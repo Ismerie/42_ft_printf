@@ -1,6 +1,6 @@
 # 42_ft_printf
 
-Ce projet conssite à coder une bibliothèque qui contient une version simplifiée de la fonction **printf**.
+Ce projet consiste à coder une bibliothèque qui contient une version simplifiée de la fonction **printf**.
 
 ## 🛠️ Usage
 
